@@ -1,0 +1,52 @@
+{
+    "skills":[
+        {
+            "id": "1",
+            "src": "./img/code.png",
+            "title": "Front-End",
+            "description": "Tenho 2 anos de experiência em desenvolvimento front end, com foco em JavaScript, TypeScript e React."
+        },
+        {
+            "id": "2",
+            "src": "./img/UIUX.png",
+            "title": "UI/UX Design",
+            "description": "Também tenho experiência na parte de UI/UX Design, principalmente voltado para a area de web design e desenvolvimento web."
+        },
+        {
+            "id": "3",
+            "src": "./img/design.png",
+            "title": "Design",
+            "description": "Além de noções de UI e UX Design também tenho conhecimento geral de design e proficiência em photoshop, illustrator e figma."
+        },
+        {
+            "id": "4",
+            "src": "./img/ingles.png",
+            "title": "Inglês Fluente",
+            "description": "Possuo também fluência em inglês, estudei por 3 anos"
+        }
+    ],
+
+    "portfolio":[
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Posters Astroworld",
+            "description": "Projeto em que re-imaginei cada musica do album 'astroworld' com um poster próprio",
+            "link": "Ver no Behance"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "NLW Expert Notes",
+            "description": "Projeto de criação e gravação de notas que desenvolvi durante a NLW Exeprt",
+            "link": "Ver no Github"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Pokédex",
+            "description": "mini projeto que fiz aonde criei uma pokédex puramente com HTML e CSS",
+            "link": "Ver no Github"
+        }
+    ]
+}
